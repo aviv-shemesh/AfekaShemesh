@@ -1,5 +1,4 @@
-# אתר שיעורי הבית – AfekaShemesh# AfekaShemesh  
-זהו מאגר הקבצים עבור שיעורי הבית שלי בקורס בניית אתרים.
+# AfekaShemesh
 
-## כתובת האתר (GitHub Pages):
-https://aviv-shamesh.github.io/AfekaShemesh/
+### קישור לשיעורי הבית:
+https://aviv-shemesh.github.io/AfekaShemesh/
